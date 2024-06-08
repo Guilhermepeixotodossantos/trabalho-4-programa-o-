@@ -1,0 +1,105 @@
+Os algoritmos de redes sociais são conjuntos de regras e processos computacionais utilizados pelas plataformas de mídia social para determinar quais conteúdos são exibidos para cada usuário. Eles desempenham um papel fundamental na seleção, classificação e organização do conteúdo que aparece nos feeds de notícias, nas páginas de perfil e nas seções de descoberta das redes sociais. Os algoritmos das redes sociais identificam quais publicações devem ser entregues para mais ou menos pessoas. Eles decidem como ranquear os resultados de um feed, a partir do grau de relevância daquele conteúdo para cada usuário.
+
+1. Dominar os conceitos fundamentais da computação é vantajoso no Direito porque permite entender tecnologias jurídicas, automatizar processos, garantir a segurança da informação, interpretar evidências digitais e participar na legislação de tecnologia. Isso proporciona uma atuação mais eficaz e atualizada no campo jurídico.
+
+2.
+a) Na computação, um algoritmo é uma sequência finita de instruções ou regras precisas que definem um processo ou operação. Os algoritmos são usados para resolver problemas e realizar tarefas específicas em computadores. Eles podem variar em complexidade e são a base para o desenvolvimento de programas de software.
+b) O termo "nuvem" refere-se à computação em nuvem, que é a entrega de serviços de computação, como armazenamento, processamento de dados e software, pela internet. Em vez de armazenar dados localmente em um computador ou servidor físico, os usuários acessam recursos de computação remotos por meio da internet, geralmente pagando apenas pelo que usam.
+c) Um servidor é um computador ou sistema de computadores dedicado a fornecer serviços, recursos ou dados para outros computadores ou dispositivos em uma rede. Os servidores são comumente usados para hospedar sites, aplicativos, armazenar dados, enviar e-mails, entre outras funções, permitindo que os clientes acessem esses recursos remotamente.
+d) A neutralidade da rede é o princípio de que todos os dados na internet devem ser tratados de forma igual, sem discriminação ou preferência por tipo de conteúdo, aplicativo, site ou usuário. Isso significa que os provedores de serviços de internet (ISPs) não devem bloquear, priorizar ou restringir o acesso a determinados conteúdos ou serviços com base em interesses comerciais ou políticos.
+e) Na computação, um arquivo é uma unidade de armazenamento digital que contém dados, informações ou instruções. Os arquivos podem ser de vários tipos, como documentos de texto, imagens, vídeos, programas executáveis ​​e muito mais. Eles são organizados em sistemas de arquivos e podem ser manipulados e acessados por meio de software de gerenciamento de arquivos.
+
+3. Com a capacidade de abstrair e ignorar
+
+4. Os computadores foram inventados para automatizar tarefas repetitivas, armazenar e processar grandes volumes de dados de forma eficiente, e possibilitar o desenvolvimento de novas tecnologias e soluções para uma variedade de problemas.
+
+5. Uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos devido à sua falta de interpretabilidade, potencial para viés e discriminação, e incapacidade de lidar com incerteza e risco. Para esses casos, algoritmos mais interpretais e éticos são preferíveis, como modelos baseados em regras ou aprendizado supervisionado, que podem fornecer justificativas claras para suas decisões e reduzir o viés.
+
+6. Um arquivo binário armazena dados em sua forma bruta, representados em zeros e uns, enquanto um arquivo de texto armazena caracteres de texto usando uma codificação específica
+
+7. Um formato proprietário de arquivo é controlado por uma entidade específica e requer software licenciado para acesso, enquanto um formato aberto é publicamente documentado e pode ser acessado por qualquer pessoa. Para a divulgação e manutenção de dados públicos, o uso de formatos abertos é preferível devido à sua acessibilidade universal e à capacidade de evitar dependência de software específico.
+
+8. Um protocolo de comunicação aberto é publicamente documentado e pode ser implementado por qualquer pessoa sem restrições significativas, promovendo a interoperabilidade entre diferentes sistemas e garantindo liberdade econômica para desenvolvedores criarem novas aplicações. Por outro lado, um protocolo de comunicação proprietário é controlado por uma entidade específica e pode exigir licenciamento para implementação, limitando a liberdade de desenvolvimento e criando barreiras para a inovação. Em resumo, os protocolos de comunicação abertos promovem a competição, a inovação e o desenvolvimento de novas aplicações para a internet, enquanto os protocolos proprietários podem restringir a liberdade econômica e a diversidade de opções de desenvolvimento.
+
+9.
+a) Um sistema operacional é um conjunto de programas e rotinas que coordena e controla o uso dos recursos de hardware de um computador e fornece serviços aos programas de aplicativos. Ele atua como uma interface entre o hardware do computador e os programas, gerenciando recursos como processador, memória, dispositivos de entrada e saída. O sistema operacional permite que os programas acessem e usem esses recursos de forma eficiente, gerenciando também tarefas como escalonamento de processos, gerenciamento de memória e acesso a dispositivos.
+b) Não, existem muitos sistemas operacionais disponíveis, cada um com suas características e finalidades específicas. Alguns dos sistemas operacionais mais conhecidos incluem Windows, macOS, Linux, Android e iOS, entre outros. A escolha do sistema operacional depende das necessidades e preferências do usuário, bem como do hardware do dispositivo.
+c) Vender computadores com um sistema operacional pré-instalado pode ser considerado "venda casada" se o consumidor não tiver a opção de adquirir o hardware sem o software ou se a opção de escolha entre diferentes sistemas operacionais for restrita de alguma forma. A prática de venda casada é considerada anti-competitiva em muitos países e pode violar leis de proteção ao consumidor. Os consumidores devem ter liberdade para escolher e instalar o sistema operacional de sua preferência em seus dispositivos.
+
+10.
+a) A abrangência da LGPD (Lei Geral de Proteção de Dados) não se limita apenas aos dados armazenados em território nacional, mas também se aplica a qualquer empresa que processe dados pessoais de indivíduos no Brasil, independentemente de onde esses dados estejam armazenados. Isso significa que datacenters em países estrangeiros que lidam com dados de cidadãos brasileiros estão sujeitos às disposições da LGPD, desde que atuem no contexto das atividades econômicas no Brasil ou ofereçam produtos ou serviços aos brasileiros.
+b.1) Os servidores de aplicação geralmente têm políticas e regras de comunidade para lidar com conteúdo inapropriado. No entanto, a eficácia dessas medidas pode variar. Alguns servidores de aplicação podem ter sistemas automatizados para detectar e remover conteúdo que viola suas regras de comunidade, enquanto outros dependem de relatórios de usuários. A melhoria contínua dos algoritmos de detecção e ações rápidas para remover conteúdo inadequado são essenciais para lidar com esse desafio.
+b.2) O combate ao conteúdo que destrói reputações, sabidamente falso, é um desafio significativo para os servidores de aplicação. Embora muitas plataformas tenham políticas contra desinformação e fake news, identificar e remover conteúdo falso pode ser complexo devido à natureza dinâmica da informação na internet. Além disso, há preocupações com a censura e a liberdade de expressão. Portanto, os servidores de aplicação precisam equilibrar a moderação de conteúdo com a proteção da liberdade de expressão, enquanto implementam políticas e tecnologias para combater a disseminação de informações falsas.
+
+11.
+a) As estruturas de repetição em Python são o "for" e o "while".
+b) Os blocos de comando em Python são definidos por meio de indentação, utilizando espaços ou tabulações no início de cada linha de código. As instruções que fazem parte do mesmo bloco devem ter a mesma indentação.
+c) As duas principais operações realizadas pelo operador "+" em Python são a concatenação de strings e a adição de números. A concatenação de strings une duas ou mais strings, enquanto a adição de números realiza a soma aritmética.
+d) Uma função em Python é um bloco de código reutilizável que realiza uma tarefa específica. Ela pode receber argumentos como entrada, realizar operações com esses argumentos e retornar um resultado.
+e) Para definir uma função em Python, utilizamos a palavra-chave "def", seguida pelo nome da função e seus parâmetros entre parênteses, : . O corpo da função é indentado e contém as instruções a serem executadas. Por exemplo:
+
+def soma(a, b):
+    return a + b
+
+f) As estruturas de tomada de decisão em Python são "if", "elif" e "else". Abaixo, segue um exemplo de cada uma:
+
+Exemplo de if:
+x = 10
+if x > 5:
+    print("x é maior que 5")
+
+Exemplo de elif:
+y = 3
+if y > 5:
+    print("y é maior que 5")
+elif y == 3:
+    print("y é igual a 3")
+else:
+    print("y é menor que 3")
+
+Exemplo de else:
+z = 7
+if z > 10:
+    print("z é maior que 10")
+else:
+    print("z é menor ou igual a 10")
+
+
+Nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala.
+Dados são como valores binários que podem ser números, cadeias de caracteres ou imagens sem interpretação. Estes dados podem ser obtidos da realidade através de algum processo de captura automática ou de codificação realizada por pessoas.
+Informação é a reunião dos dados processados em um computador e que são capazes de gerar resultados para um determinado projeto.
+Inteligencia Artificial é um conjunto de tecnologias que permitem aos computadores executar uma variedade de funções avançadas, incluindo a capacidade de ver, entender e traduzir idiomas falados e escritos, analisar dados, fazer recomendações e muito mais.
+Servidor é o computador ou software central que forma uma arquitetura conhecida como “cliente – servidor” com outros dispositivos, como computadores, tablets e smartphones.
+Zero-Rating é uma prática realizada pelas operadoras e algumas empresas de tecnologia que consiste em permitir o acesso de forma "gratuita", ou sem cobrar o tráfego de dados móveis a alguns serviços online, como apps de rede sociais e mensagens.
+Jurimetria é a aplicação de sistemas de estatística e probabilidade ao estudo dos acontecimentos jurídicos embasados pelo Direito.
+Sistema de Arquivos é um conjunto de estruturas lógicas, ou seja, feitas diretamente via software, que permite ao sistema operacional ter acesso e controlar os dados gravados no disco.
+Neutralidade da Rede é um princípio essencial para garantir a liberdade e a igualdade na internet. Ela assegura que todos tenham as mesmas oportunidades de acessar e compartilhar informações e conteúdos, independentemente de quem são ou do tipo de conteúdo que estão transmitindo.
+Banco de Dados agrupa dados sobre um mesmo assunto, armazenando assim diversos dados como documentos, endereços, serviços, clientes, entre outros.
+
+REFERÊNCIA
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-cloud-computing
+https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml
+https://www.google.com/search?q=jurimetria&rlz=1C1GCEU_pt-BRBR1098BR1098&oq=jurimetria&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDE1MThqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=sistema+de+arquivos+significado%5B&sca_esv=2ddc44dae7b2d10f&rlz=1C1GCEU_pt-BRBR1098BR1098&ei=wznWZbm2K-bM1sQPr4uKkA0&udm=&ved=0ahUKEwj5o6qXgb2EAxVmppUCHa-FAtIQ4dUDCBA&uact=5&oq=sistema+de+arquivos+significado%5B&gs_lp=Egxnd3Mtd2l6LXNlcnAiIHNpc3RlbWEgZGUgYXJxdWl2b3Mgc2lnbmlmaWNhZG9bMgUQIRigATIFECEYoAEyBRAhGKABSMkWUMoBWLsTcAF4AZABAJgBrwGgAagOqgEEMS4xMrgBA8gBAPgBAcICChAAGEcY1gQYsAPCAg0QABiABBiKBRhDGLADwgIFEAAYgATCAgoQABiABBiKBRhDwgIGEAAYFhgewgIIEAAYFhgeGA-IBgGQBgo&sclient=gws-wiz-serp
+https://www.jusbrasil.com.br/artigos/entenda-de-uma-vez-por-todas-o-conceito-de-neutralidade-da-rede/1839681291#:~:text=A%20neutralidade%20da%20rede%20%C3%A9%20um%20princ%C3%ADpio%20essencial%20para%20garantir,de%20conte%C3%BAdo%20que%20est%C3%A3o%20transmitindo.
+https://www.treinaweb.com.br/blog/o-que-e-banco-de-dados#:~:text=Para%20que%20serve%3F,sejam%20armazenados%20e%20consumidos%20posteriormente.
+https://palazzo.pro.br/dados-informacao-e-conhecimento/
+https://www.significados.com.br/informacao/#:~:text=Nas%20%C3%A1reas%20da%20inform%C3%A1tica%20e,que%20pode%20transmitir%20a%20outro.
+https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-br
+https://coodesh.com/blog/dicionario/o-que-e-um-servidor/#:~:text=O%20servidor%20%C3%A9%20o%20computador,dados%20dentro%20de%20uma%20rede.
+
+
+A. A LGPD (Lei Geral de Proteção de Dados) e os Data Centers no Brasil têm uma relação importante. A LGPD exige que as empresas protejam os dados pessoais dos usuários, e os Data Centers são onde esses dados geralmente são armazenados. 
+Então, os Data Centers precisam garantir medidas de segurança e privacidade para cumprir com as exigências da LGPD. Isso pode envolver coisas como criptografia, controles de acesso rigorosos e políticas claras de gerenciamento de dados.
+
+B. Quando se trata de formatos de arquivos de dados, existem os proprietários e os abertos. Um formato aberto é algo que pode ser usado tanto em softwares pagos quanto grátis, e é compatível com diferentes tipos de licenças, por exemplo, um arquivo de formato PNG, Ogg, Mp3 e etc...
+Por outro lado, um formato proprietário é controlado e protegido por uma empresa específica que detém seus direitos, como por exemplo, PPT, SWF, DWG e etc... Agora, quando se trata de dados públicos, o formato do arquivo pode afetar quem pode acessá-los e como eles podem ser usados. 
+Se os dados são armazenados em um formato proprietário, pode ser necessário um software específico para abri-los, o que pode dificultar o acesso para algumas pessoas. 
+Por outro lado, se os dados são disponibilizados em um formato aberto como .csv, eles são mais acessíveis e podem ser facilmente manipulados e analisados por qualquer pessoa com software básico, como Excel ou Google Sheets.
+
+
+Referências Bibliográficas: 
+https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd#:~:text=A%20Lei%20fala%20sobre%20o,em%20meios%20manuais%20ou%20digitais.
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html#:~:text=Arquivos%20salvos%20em%20formatos%20abertos,independentemente%20dos%20direitos%20de%20propriedade.
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/#:~:text=Home-,Relação%20entre%20Data%20Center%20e%20a,de%20Proteção%20de%20Dados%20(LGPD)&text=A%20Lei%20Geral%20de%20Proteção%20de%20Dados%20(LGPD)%20obriga%20as,a%20administração%20do%20Data%20Center.
+https://pt.wikipedia.org/wiki/Formato_aberto
